@@ -1,3 +1,6 @@
 this is file 1
+
 echo "010111010" > file2.txt
 
+this ist the updata 
+git status
